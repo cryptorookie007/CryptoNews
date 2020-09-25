@@ -1,4 +1,4 @@
-# CryptoNews
+# CryptoNews Channels
 
 - https://dailyhodl.com/news/
 - https://cryptoslate.com/
