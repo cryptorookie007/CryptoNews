@@ -34,6 +34,7 @@
 -    https://newsvire.com/
 -    https://whylose.com/
 - https://cryptorandgroup.com/
+- https://heraldsheets.com/
 
 
 
