@@ -35,7 +35,8 @@
 -    https://whylose.com/
 - https://cryptorandgroup.com/
 - https://heraldsheets.com/
-
+- https://www.intotheblock.com/
+- https://www.fxstreet.com/
 
 
 
