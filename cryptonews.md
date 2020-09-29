@@ -1,5 +1,8 @@
 # CryptoNews Channels
 
+- https://coinspectator.com/
+- https://coinloop.io/cryptocurrency-news
+- https://cryptopanic.com/
 - https://dailyhodl.com/news/
 - https://cryptoslate.com/
 -    https://elevenews.com/
@@ -37,7 +40,12 @@
 - https://heraldsheets.com/
 - https://www.intotheblock.com/
 - https://www.fxstreet.com/
-
+- https://thedailychain.com/
+- https://www.theblockcrypto.com/
+- https://oliodigest.com/
+- https://www.thecointribune.com/
+- https://ihodl.com/
+- https://coinsconcise.com/
 
 
 

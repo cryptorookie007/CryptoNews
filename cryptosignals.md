@@ -3,3 +3,9 @@
 - https://twitter.com/glassnodealerts
 - https://www.cryptotrackerbot.com/
 - https://studio.glassnode.com/
+- https://www.mamo.io/
+- https://twitter.com/GreyPool2
+- https://www.tradingview.com/u/GreyPool/#published-scripts
+- https://altsignals.io/
+- https://cryptocurrencyalerting.com/
+ - https://charts.cointrader.pro/
