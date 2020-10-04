@@ -9,3 +9,4 @@
 - https://altsignals.io/
 - https://cryptocurrencyalerting.com/
  - https://charts.cointrader.pro/
+ - https://t.me/s/Mycryptopedia?before=116
