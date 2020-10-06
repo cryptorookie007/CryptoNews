@@ -8,3 +8,4 @@
 - https://www.profitfarmers.com/
 - https://www.cointrader.pro/
 - https://osom.finance/
+- https://walletinvestor.com/forecast
