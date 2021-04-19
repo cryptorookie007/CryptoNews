@@ -45,7 +45,6 @@
 - https://oliodigest.com/
 - https://www.thecointribune.com/
 - https://ihodl.com/
-- https://coinsconcise.com/
 
 
 
